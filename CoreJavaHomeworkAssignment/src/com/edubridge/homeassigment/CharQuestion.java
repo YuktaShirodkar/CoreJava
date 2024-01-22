@@ -8,7 +8,7 @@ public class CharQuestion {
 		// TODO Auto-generated method stub
 		
 		Scanner s = new Scanner(System.in);
-		char input = s.next().charAt(0);
+		int input = s.next().charAt(0);
 		
 		System.out.println( input);
 
