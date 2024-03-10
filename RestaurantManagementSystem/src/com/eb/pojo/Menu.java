@@ -6,4 +6,19 @@ public class Menu {
 		// TODO Auto-generated constructor stub
 	}
 
+	public String getMenuName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public int getMenuPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public int getMenuQuantity() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
