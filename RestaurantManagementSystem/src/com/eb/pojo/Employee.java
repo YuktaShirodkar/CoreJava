@@ -6,4 +6,19 @@ public class Employee {
 		// TODO Auto-generated constructor stub
 	}
 
+	public String getEdesignation() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getEname() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getEcontact() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

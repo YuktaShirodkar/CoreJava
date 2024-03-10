@@ -6,4 +6,19 @@ public class Customer {
 		// TODO Auto-generated constructor stub
 	}
 
+	public String getCusName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getCusContact() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getCusAddress() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
