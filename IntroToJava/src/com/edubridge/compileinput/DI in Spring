@@ -2,3 +2,17 @@
 dependency ijection:
 dependency ijection is fundamental aspect of spring framework.
 We are injecting one ofject into another object or dependency via getter setter/or constructor
+
+JDBC:
+JDBCtemplate is used to connect database and connectto sql queries .
+
+It internally uses JDBC API
+
+JDBC Template :
+JDBC Template class performs all the database operations such as insertion ,updation and retrieve the data from DB.
+This method is used to insert update and delete records using prepared statements using given arguments.
+
+Rowmapper
+It is used to fetch the records fromDB.
+Rowmapper is a callback interface it is calling for each row and each column from table.
+
